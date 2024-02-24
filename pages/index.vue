@@ -1,9 +1,9 @@
-<template lang="">
+<template>
   <div>
-    <p>Hello!</p>
+    <UContainer>
+      <p>Hello!</p>
+    </UContainer>
   </div>
 </template>
-<script>
-export default {};
-</script>
-<style lang=""></style>
+<script setup></script>
+<style scoped></style>
